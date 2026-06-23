@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sevvy-wevvy/Sev-Verified-Nametags/releases/latest">
-    <img src="https://img.shields.io/github/downloads/sevvy-wevvy/Sev-Verified-Nametags/total?label=Downloads&style=for-the-badge" alt="Downloads">
+  <a href="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/releases/latest">
+    <img src="https://img.shields.io/github/downloads/sevvy-wevvy/Sevs-Better-Nametags/total?label=Downloads&style=for-the-badge" alt="Downloads">
   </a>
-  <a href="https://github.com/sevvy-wevvy/Sev-Verified-Nametags/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Sev-Verified-Nametags/Several-Bees?label=Version&style=for-the-badge&color=red" alt="Version">
+  <a href="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Sevs-Better-Nametags/Sevs-Better-Nametags?label=Version&style=for-the-badge&color=red" alt="Version">
   </a>
   <a href="https://sevvy-wevvy.com/discord">
     <img src="https://img.shields.io/discord/1398944180079689728?label=Discord&style=for-the-badge" alt="Discord">
@@ -26,7 +26,7 @@
 <summary align="center"><b>🛠 Pull Requests 🛠</b></summary>
 
 <p align="center">
-Want to help with this mod? <a href="https://github.com/sevvy-wevvy/Sev-Verified-Nametags/pulls">Make A pull request!</a><br>
+Want to help with this mod? <a href="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/pulls">Make A pull request!</a><br>
 Pull request allow for anyone to request a change to this code. In turn meaning that <b>YOU</b> can contribute to this project.<br>
 As long as it works, and doesn't vary off too far from the main idea it's very likely it get accepted!
 </p>
