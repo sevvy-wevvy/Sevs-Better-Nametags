@@ -1,4 +1,5 @@
 <h1 align="center">Sevs Better Nametags</h1>
+<h2 align="center">Right ALT + N For GUI</h2>
 
 <p align="center">
 <b>A mod for Gorilla Tag that makes nameplates in Gorilla Tag more customizable.</b>
