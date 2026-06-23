@@ -1,7 +1,7 @@
-<h1 align="center">Sev Verified Nametags</h1>
+<h1 align="center">Sevs Better Nametags</h1>
 
 <p align="center">
-<b>A mod for Gorilla Tag the modifies peoples nameplate colors to match there role in the official Gorilla Tag Modding discord.</b>
+<b>A mod for in Gorilla Tag that makes nameplates in Gorilla Tag more customizable.</b>
 </p>
 
 <p align="center">
