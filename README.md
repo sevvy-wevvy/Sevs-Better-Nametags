@@ -1,7 +1,7 @@
 <h1 align="center">Sevs Better Nametags</h1>
 
 <p align="center">
-<b>A mod for in Gorilla Tag that makes nameplates in Gorilla Tag more customizable.</b>
+<b>A mod for Gorilla Tag that makes nameplates in Gorilla Tag more customizable.</b>
 </p>
 
 <div align="center">
