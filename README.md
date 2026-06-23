@@ -4,6 +4,10 @@
 <b>A mod for in Gorilla Tag that makes nameplates in Gorilla Tag more customizable.</b>
 </p>
 
+<div align="center">
+ <img src="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/sbn1.png?raw=true" width=70% height=auto</img> <img src="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/sbn2.png?raw=true" width=70% height=auto</img><br>
+</div><br>
+
 <p align="center">
   <a href="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/releases/latest">
     <img src="https://img.shields.io/github/downloads/sevvy-wevvy/Sevs-Better-Nametags/total?label=Downloads&style=for-the-badge" alt="Downloads">
