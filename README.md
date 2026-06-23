@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/downloads/sevvy-wevvy/Sevs-Better-Nametags/total?label=Downloads&style=for-the-badge" alt="Downloads">
   </a>
   <a href="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Sevs-Better-Nametags/Sevs-Better-Nametags?label=Version&style=for-the-badge&color=red" alt="Version">
+    <img src="https://img.shields.io/github/v/release/sevvy-wevvy/Sevs-Better-Nametags?label=Version&style=for-the-badge&color=red" alt="Version">
   </a>
   <a href="https://sevvy-wevvy.com/discord">
     <img src="https://img.shields.io/discord/1398944180079689728?label=Discord&style=for-the-badge" alt="Discord">
