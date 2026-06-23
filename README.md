@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
- <img src="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/sbn1.png?raw=true" width=70% height=auto</img> <img src="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/sbn2.png?raw=true" width=70% height=auto</img><br>
+ <img src="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/blob/main/sbn1.png?raw=true" width=70% height=auto</img> <img src="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/blob/main/sbn2.png?raw=true" width=70% height=auto</img><br>
 </div><br>
 
 <p align="center">
